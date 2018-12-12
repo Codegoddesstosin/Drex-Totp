@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2017\Projects\Witts-Stratts\Witts-Stratts.Framework\bin\Debug\Witts-Stratts.Framework.dll
+c:\users\admin\documents\visual studio 2017\Projects\Witts-Stratts\Witts-Stratts.Framework\bin\Debug\Witts-Stratts.Framework.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Witts-Stratts\Witts-Stratts.Framework\obj\Debug\Witts-Stratts.Framework.dll
+c:\users\admin\documents\visual studio 2017\Projects\Witts-Stratts\Witts-Stratts.Framework\obj\Debug\Witts-Stratts.Framework.pdb
